@@ -1,0 +1,35 @@
+{
+    "description": "<p>No description provided.</p>", 
+    "license": "BSD-3-Clause", 
+    "title": "Goal and plan recognition datasets using classical planning domains", 
+    "upload_type": "software", 
+    "keywords": [
+        "goal recognition", 
+        "PDDL", 
+        "plan recognition"
+    ], 
+    "publication_date": "2017-07-11", 
+    "creators": [
+        {
+            "affiliation": "Pontifical Catholic University of Rio Grande do Sul", 
+            "name": "Ramon Fraga Pereira"
+        }, 
+        {
+            "affiliation": "Pontifical Catholic University of Rio Grande do Sul", 
+            "name": "Felipe Meneguzzi"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/pucrs-automated-planning/goal_plan-recognition-dataset/tree/v1.0", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.825877", 
+            "relation": "isPartOf"
+        }
+    ]
+}
