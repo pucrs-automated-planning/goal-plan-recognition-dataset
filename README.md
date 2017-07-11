@@ -1,4 +1,5 @@
 # Goal and Plan Recognition Dataset
+[![DOI](https://zenodo.org/badge/76881547.svg)](https://zenodo.org/badge/latestdoi/76881547)
 
 This repository contains datasets for goal and plan recognition as planning.
 
